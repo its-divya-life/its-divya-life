@@ -1,7 +1,7 @@
-- 👋 Hi, I’m me @its-divya-life.. your Data Diva
-- Note: This compilation is level 1 of Python programming to get trained. Stay tuned to see more cool data stuff! 
+<h1> The Data Library </h1> 
 
-<!---
-its-divya-life/its-divya-life is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> This repository aims to help DATA aspirants with their first successful code in any language or format. 🥳 </h2>
+
+<h3> There will be lots of cool data stuff in this repository - Keep your watch out for it! An announcement will be made when something COOL is released </h3> 
+
+<h3> This repository is open to all members of the GitHub community. Any member can contribute to this project! 😁
